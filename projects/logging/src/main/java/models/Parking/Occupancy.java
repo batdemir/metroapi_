@@ -1,3 +1,5 @@
+package models.parking;
+
 public class Occupancy {
  Total TotalObject;
 

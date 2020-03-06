@@ -1,3 +1,5 @@
+package models.station;
+
 public class Station {
     private float id;
     private String station;

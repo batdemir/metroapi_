@@ -1,3 +1,5 @@
+package models.passenger;
+
 import java.util.ArrayList;
 
 public class Passenger {

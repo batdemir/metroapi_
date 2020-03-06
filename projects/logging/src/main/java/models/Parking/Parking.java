@@ -1,3 +1,5 @@
+package models.parking;
+
 public class Parking {
     private String parkId;
     private String name;

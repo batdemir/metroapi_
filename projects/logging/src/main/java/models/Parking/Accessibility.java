@@ -1,3 +1,5 @@
+package models.parking;
+
 public class Accessibility {
     private boolean disabled;
     private boolean lpgAllowed;

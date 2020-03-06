@@ -1,3 +1,5 @@
+package models.location;
+
 public class Location {
     private float id;
     private String station;

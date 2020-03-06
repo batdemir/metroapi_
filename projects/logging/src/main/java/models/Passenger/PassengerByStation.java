@@ -1,3 +1,5 @@
+package models.passenger;
+
 public class PassengerByStation {
     private float station_id;
     private String station_name;

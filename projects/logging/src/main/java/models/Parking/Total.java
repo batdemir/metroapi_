@@ -1,3 +1,5 @@
+package models.parking;
+
 public class Total {
     private float free;
     private float occupied;

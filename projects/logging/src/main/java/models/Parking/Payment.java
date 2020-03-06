@@ -1,3 +1,5 @@
+package models.parking;
+
 public class Payment {
  private boolean sms;
  private boolean card;

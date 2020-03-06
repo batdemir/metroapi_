@@ -1,3 +1,5 @@
+package models.period;
+
 public class PeriodItem {
     private String start_time;
     private String finish_time;

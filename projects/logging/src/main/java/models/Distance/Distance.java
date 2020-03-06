@@ -1,3 +1,5 @@
+package models.distance;
+
 public class Distance {
     private float id_st;
     private String station_start;

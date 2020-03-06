@@ -1,3 +1,5 @@
+package models.period;
+
 import java.util.ArrayList;
 
 public class Period {

@@ -1,3 +1,5 @@
+package models.parking;
+
 public class OpeningHour {
     private String monday;
     private String tuesday;

@@ -1,3 +1,5 @@
+package models.parking;
+
 public class Poi {
     private boolean metroStation;
     private boolean tramStation;
